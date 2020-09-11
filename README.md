@@ -15,6 +15,12 @@ Build a program that determines the popularity of different baby names in the US
 7. Create a class with multiple methods that work together to solve a problem; and
 8. Use divide-and-conquer design techniques for a program that uses multiple methods.
 
+## Skills
+- Algorithms
+- Problem Solving
+- String (Computer Science)
+- Java Programming
+
 ## Build with
 - BlueJ 
 Suggest using BlueJ to run this project
