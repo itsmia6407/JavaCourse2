@@ -2,7 +2,7 @@
 Java Programming by Duke University on Coursera
 
 ## Description
-Using custom open-source classes, write programs that access and transform images, websites, and other types of data. 
+Using custom open-source classes, write programs that access and transform images, websites, and other types of data. <br />
 Build a program that determines the popularity of different baby names in the US over time by analyzing comma separated value (CSV) files.
 
 ## Outcome
@@ -22,8 +22,8 @@ Build a program that determines the popularity of different baby names in the US
 - Java Programming
 
 ## Build with
-- BlueJ 
-Suggest using BlueJ to run this project
+- BlueJ  <br />
+** Suggest using BlueJ to run this project.**
 
 ## Author
 miale6407@gmail.com
