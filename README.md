@@ -1,5 +1,5 @@
 # Java Object Oriented Programming 2
-Java Programming from Duke University on Coursera
+Java Programming by Duke University on Coursera
 
 ## Description
 Using custom open-source classes, write programs that access and transform images, websites, and other types of data. 
