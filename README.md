@@ -1,11 +1,11 @@
 # Java Object Oriented Programming 2
 Java Programming from Duke University on Coursera
 
-##Description
+## Description
 Using custom open-source classes, write programs that access and transform images, websites, and other types of data. 
 Build a program that determines the popularity of different baby names in the US over time by analyzing comma separated value (CSV) files.
 
-##Outcome
+## Outcome
 1. Edit, compile, and run a Java program;
 2. Use conditionals and loops in a Java program;
 3. Use Java API documentation in writing programs. 
@@ -15,14 +15,14 @@ Build a program that determines the popularity of different baby names in the US
 7. Create a class with multiple methods that work together to solve a problem; and
 8. Use divide-and-conquer design techniques for a program that uses multiple methods.
 
-##Build with
+## Build with
 - BlueJ 
 ### Suggest using BlueJ to run this project
 
-##Author
+## Author
 miale6407@gmail.com
 
-##Credential 
+## Credential 
 [Click to access credential URL](https://www.coursera.org/account/accomplishments/certificate/LAAUHFGLEAR6)
 
 ## License
